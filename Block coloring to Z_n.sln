@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Block coloring to Z_n", "Block coloring to Z_n\Block coloring to Z_n.pyproj", "{E44C98F2-8E68-45A9-9CB0-19B5A5BB065C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E44C98F2-8E68-45A9-9CB0-19B5A5BB065C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44C98F2-8E68-45A9-9CB0-19B5A5BB065C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB5E17E4-BA4F-4612-9274-E590823DC535}
+	EndGlobalSection
+EndGlobal
